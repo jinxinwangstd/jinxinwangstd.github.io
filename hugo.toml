@@ -1,0 +1,4 @@
+baseURL = 'http://www.alexwangjinxin.com/'
+languageCode = 'en-us'
+title = "Jinxin Wang's Website"
+theme = 'PaperMod'
